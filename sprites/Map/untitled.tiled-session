@@ -1,0 +1,36 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Test01.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Test01.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 639,
+                "y": 145
+            }
+        },
+        "Test01.tmx#ProjectUtumno_full": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/XPC/Desktop/OPEN THE DOOOOOOORS/sprites/Map",
+    "last.imagePath": "C:/Users/XPC/Desktop/OPEN THE DOOOOOOORS/sprites/Map",
+    "map.lastUsedExportFilter": "Lua files (*.lua)",
+    "map.lastUsedFormat": "tmx",
+    "map.renderOrder": null,
+    "openFiles": [
+        "Test01.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "Test01.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.useTransparentColor": true
+}
